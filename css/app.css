@@ -1,5 +1,5 @@
 /* Layout: one calm reading column, the Italian phrase always the largest thing on screen.
-   Colours: Malva. Mauve page, plum accent, Konuş's amber for the stressed syllable. */
+   Colours: Malva, light only. Mauve page, plum accent, Konuş's amber for the stressed syllable. */
 :root {
   --bg: #EEDFEA; --surface: #FAF2F7; --sunk: #E6D3E0; --ink: #33192C; --ink-2: #4E2E45; --muted: #735769; --line: #DDC6D6;
   --cobalt: #84306F; --cobalt-soft: #E6CCDD; --amber: #8F520A; --amber-soft: #F8E6C8;
@@ -11,16 +11,6 @@
   --f-mono: 'Geist Mono', 'SF Mono', ui-monospace, Menlo, monospace;
   --r: 10px; --r-s: 6px; --col: 680px;
   color-scheme: light;
-}
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #24121F; --surface: #2F1829; --sunk: #1C0E18; --ink: #F5E6F0; --ink-2: #DCC5D4; --muted: #BC97AF; --line: #48283F;
-    --cobalt: #E8A8D8; --cobalt-soft: #43203A; --amber: #F0B661; --amber-soft: #3D2A12;
-    --good: #8ACB95; --good-soft: #132A1A; --warn: #E6C46B; --warn-soft: #2E250E; --bad: #F09C98; --bad-soft: #331616;
-    --btn: #E8A8D8; --btn-ink: #24121F;
-    --rk-f: #8C98A6; --rk-e: #8ACB95; --rk-d: #7FC8D2; --rk-c: #93B4EE; --rk-b: #B9A3F0; --rk-a: #F0B661; --rk-s: #F09C98;
-    color-scheme: dark;
-  }
 }
 
 * { box-sizing: border-box; }

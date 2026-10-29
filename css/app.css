@@ -1,7 +1,7 @@
 /* Layout: one calm reading column, the Italian phrase always the largest thing on screen.
    Colours: Malva, light only. Mauve page, plum accent, Konuş's amber for the stressed syllable. */
 :root {
-  --bg: #EEDFEA; --surface: #FAF2F7; --sunk: #E6D3E0; --ink: #33192C; --ink-2: #4E2E45; --muted: #735769; --line: #DDC6D6;
+  --bg: #EEDFEA; --surface: #FAF2F7; --sunk: #E6D3E0; --ink: #3D1F35; --ink-2: #4E2E45; --muted: #735769; --line: #DDC6D6;
   --cobalt: #84306F; --cobalt-soft: #E6CCDD; --amber: #8F520A; --amber-soft: #F8E6C8;
   --good: #2F6B3A; --good-soft: #E9F2E9; --warn: #855700; --warn-soft: #FAF1D8; --bad: #9F2F2D; --bad-soft: #FBEAEA;
   --btn: #84306F; --btn-ink: #FFFFFF;
